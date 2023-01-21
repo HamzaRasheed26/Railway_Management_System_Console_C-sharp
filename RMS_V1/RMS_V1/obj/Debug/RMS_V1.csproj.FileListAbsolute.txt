@@ -1,0 +1,8 @@
+H:\Hamza\SEMESTER 02\Projects\RMS_V1\RMS_V1\bin\Debug\RMS_V1.exe.config
+H:\Hamza\SEMESTER 02\Projects\RMS_V1\RMS_V1\bin\Debug\RMS_V1.exe
+H:\Hamza\SEMESTER 02\Projects\RMS_V1\RMS_V1\bin\Debug\RMS_V1.pdb
+H:\Hamza\SEMESTER 02\Projects\RMS_V1\RMS_V1\obj\Debug\RMS_V1.csproj.AssemblyReference.cache
+H:\Hamza\SEMESTER 02\Projects\RMS_V1\RMS_V1\obj\Debug\RMS_V1.csproj.SuggestedBindingRedirects.cache
+H:\Hamza\SEMESTER 02\Projects\RMS_V1\RMS_V1\obj\Debug\RMS_V1.csproj.CoreCompileInputs.cache
+H:\Hamza\SEMESTER 02\Projects\RMS_V1\RMS_V1\obj\Debug\RMS_V1.exe
+H:\Hamza\SEMESTER 02\Projects\RMS_V1\RMS_V1\obj\Debug\RMS_V1.pdb
