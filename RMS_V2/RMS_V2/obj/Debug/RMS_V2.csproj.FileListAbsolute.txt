@@ -1,0 +1,22 @@
+D:\Hamza\RMS_V2\RMS_V2\bin\Debug\RMS_V2.exe.config
+D:\Hamza\RMS_V2\RMS_V2\bin\Debug\RMS_V2.exe
+D:\Hamza\RMS_V2\RMS_V2\bin\Debug\RMS_V2.pdb
+D:\Hamza\RMS_V2\RMS_V2\obj\Debug\RMS_V2.csproj.AssemblyReference.cache
+D:\Hamza\RMS_V2\RMS_V2\obj\Debug\RMS_V2.csproj.SuggestedBindingRedirects.cache
+D:\Hamza\RMS_V2\RMS_V2\obj\Debug\RMS_V2.csproj.CoreCompileInputs.cache
+D:\Hamza\RMS_V2\RMS_V2\obj\Debug\RMS_V2.exe
+D:\Hamza\RMS_V2\RMS_V2\obj\Debug\RMS_V2.pdb
+D:\RMS_V2\RMS_V2\bin\Debug\RMS_V2.exe.config
+D:\RMS_V2\RMS_V2\obj\Debug\RMS_V2.exe
+D:\RMS_V2\RMS_V2\obj\Debug\RMS_V2.pdb
+D:\RMS_V2\RMS_V2\bin\Debug\RMS_V2.exe
+D:\RMS_V2\RMS_V2\bin\Debug\RMS_V2.pdb
+D:\RMS_V2\RMS_V2\obj\Debug\RMS_V2.csprojResolveAssemblyReference.cache
+H:\Hamza\SEMESTER 02\Projects\New folder\RMS_V2\RMS_V2\bin\Debug\RMS_V2.exe.config
+H:\Hamza\SEMESTER 02\Projects\New folder\RMS_V2\RMS_V2\bin\Debug\RMS_V2.exe
+H:\Hamza\SEMESTER 02\Projects\New folder\RMS_V2\RMS_V2\bin\Debug\RMS_V2.pdb
+H:\Hamza\SEMESTER 02\Projects\New folder\RMS_V2\RMS_V2\obj\Debug\RMS_V2.csproj.AssemblyReference.cache
+H:\Hamza\SEMESTER 02\Projects\New folder\RMS_V2\RMS_V2\obj\Debug\RMS_V2.csproj.SuggestedBindingRedirects.cache
+H:\Hamza\SEMESTER 02\Projects\New folder\RMS_V2\RMS_V2\obj\Debug\RMS_V2.csproj.CoreCompileInputs.cache
+H:\Hamza\SEMESTER 02\Projects\New folder\RMS_V2\RMS_V2\obj\Debug\RMS_V2.exe
+H:\Hamza\SEMESTER 02\Projects\New folder\RMS_V2\RMS_V2\obj\Debug\RMS_V2.pdb
