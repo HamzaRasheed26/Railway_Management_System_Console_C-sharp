@@ -1,0 +1,16 @@
+D:\BS CS\SEMESTER 02\Projects\New folder\RMS_V4\RMS_V4\bin\Debug\RMS_V4.exe.config
+D:\BS CS\SEMESTER 02\Projects\New folder\RMS_V4\RMS_V4\bin\Debug\RMS_V4.exe
+D:\BS CS\SEMESTER 02\Projects\New folder\RMS_V4\RMS_V4\bin\Debug\RMS_V4.pdb
+D:\BS CS\SEMESTER 02\Projects\New folder\RMS_V4\RMS_V4\obj\Debug\RMS_V4.csproj.AssemblyReference.cache
+D:\BS CS\SEMESTER 02\Projects\New folder\RMS_V4\RMS_V4\obj\Debug\RMS_V4.csproj.SuggestedBindingRedirects.cache
+D:\BS CS\SEMESTER 02\Projects\New folder\RMS_V4\RMS_V4\obj\Debug\RMS_V4.csproj.CoreCompileInputs.cache
+D:\BS CS\SEMESTER 02\Projects\New folder\RMS_V4\RMS_V4\obj\Debug\RMS_V4.exe
+D:\BS CS\SEMESTER 02\Projects\New folder\RMS_V4\RMS_V4\obj\Debug\RMS_V4.pdb
+D:\BS CS\SEMESTER 02\Projects\Railway Management System\RMS_V4\RMS_V4\bin\Debug\RMS_V4.exe.config
+D:\BS CS\SEMESTER 02\Projects\Railway Management System\RMS_V4\RMS_V4\bin\Debug\RMS_V4.exe
+D:\BS CS\SEMESTER 02\Projects\Railway Management System\RMS_V4\RMS_V4\bin\Debug\RMS_V4.pdb
+D:\BS CS\SEMESTER 02\Projects\Railway Management System\RMS_V4\RMS_V4\obj\Debug\RMS_V4.csproj.AssemblyReference.cache
+D:\BS CS\SEMESTER 02\Projects\Railway Management System\RMS_V4\RMS_V4\obj\Debug\RMS_V4.csproj.SuggestedBindingRedirects.cache
+D:\BS CS\SEMESTER 02\Projects\Railway Management System\RMS_V4\RMS_V4\obj\Debug\RMS_V4.csproj.CoreCompileInputs.cache
+D:\BS CS\SEMESTER 02\Projects\Railway Management System\RMS_V4\RMS_V4\obj\Debug\RMS_V4.exe
+D:\BS CS\SEMESTER 02\Projects\Railway Management System\RMS_V4\RMS_V4\obj\Debug\RMS_V4.pdb
